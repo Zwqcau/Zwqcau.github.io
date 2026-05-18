@@ -15,7 +15,7 @@ const CONFIG = {
     headerName: '中国农业大学生物成形制造与机器人应用研究组',
     footerName: '中国农业大学生物成形制造与机器人应用研究组',
     footerOrg: '中国农业大学（东校区）工学院547',
-    footerNote: '本页为 github.io 静态部署教程示例 · 左右滑动或方向键切换'
+    footerNote: '左右滑动或方向键切换'
   },
 
   /**
