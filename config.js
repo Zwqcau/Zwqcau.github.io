@@ -60,14 +60,14 @@ const CONFIG = {
     ]
   },
 
-  links: {
+ /** links: {
     /** 右上角「GitHub 仓库」按钮 */
     repoUrl: 'https://github.com/Tengxiaofei-git/Tengxiaofei-git.github.io',
     repoLabel: 'GitHub 仓库',
     /** 主按钮文案与跳转的幻灯片 id（须为上面 slides 中某一 id） */
     primaryCtaLabel: '浏览经历',
     primaryCtaSlideId: 'research'
-  },
+  },*/
 
   skills: {
     title: '技能',
