@@ -14,7 +14,7 @@ const CONFIG = {
   site: {
     headerName: '中国农业大学生物成形制造与机器人应用研究组',
     footerName: '中国农业大学生物成形制造与机器人应用研究组',
-    footerOrg: '',
+    footerOrg: '中国农业大学生物成形制造与机器人应用研究组',
     footerNote: '左右滑动或方向键切换'
   },
 
