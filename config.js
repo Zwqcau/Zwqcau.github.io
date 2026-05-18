@@ -26,9 +26,9 @@ const CONFIG = {
     { id: 'home', enabled: true, navLabel: '主页', navAriaLabel: '首页' },
     { id: 'skills', enabled: true, navLabel: '研究方向', navAriaLabel: '研究方向' },
     { id: 'research', enabled: true, navLabel: '科研团队', navAriaLabel: '科研团队' },
-    { id: 'competition', enabled: true, navLabel: '竞赛获奖', navAriaLabel: '竞赛获奖' },
-    { id: 'internship', enabled: true, navLabel: '实习经验', navAriaLabel: '实习经验' },
-    { id: 'social', enabled: true, navLabel: '社会实践', navAriaLabel: '社会实践' }
+    { id: 'competition', enabled: true, navLabel: '学术成果', navAriaLabel: '学术成果' },
+    { id: 'internship', enabled: true, navLabel: '科研项目', navAriaLabel: '科研项目' },
+    { id: 'social', enabled: true, navLabel: '科技成果', navAriaLabel: '科技成果' }
   ],
 
   /** 装饰图：右下角水印；技能等卡片标题旁小图标 */
