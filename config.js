@@ -40,8 +40,8 @@ const CONFIG = {
   profile: {
     greetingLead: '你好，我是',
     /** 首页大标题里渐变显示的名字 */
-    displayName: '腾小飞',
-    locationLine: '复旦大学腾飞书院',
+    displayName: '张文强',
+    locationLine: '中国农业大学（东校区）工学院547',
     intro: '工科学生一枚；本页是 GitHub Pages 静态个人名片的示例，展示简介与经历片段。',
     quote: '「永远在腾飞路上！」',
     /** 头像：可把图片放到 assets/ 下，例如 assets/avatar.jpg */
