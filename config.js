@@ -6,7 +6,7 @@ const CONFIG = {
   meta: {
     title: '中国农业大学生物成形制造与机器人应用研究组',
     description:
-      '中国农业大学张文强个人名片：简介、研究方向、科研、竞赛、实习与社会实践。',
+      '中国农业大学张文强个人名片：简介、研究方向、科研团队、竞赛、实习与社会实践。',
     lang: 'zh-CN'
   },
 
@@ -25,7 +25,7 @@ const CONFIG = {
   slides: [
     { id: 'home', enabled: true, navLabel: '主页', navAriaLabel: '首页' },
     { id: 'skills', enabled: true, navLabel: '研究方向', navAriaLabel: '研究方向' },
-    { id: 'research', enabled: true, navLabel: '科研经历', navAriaLabel: '科研经历' },
+    { id: 'research', enabled: true, navLabel: '科研经团队', navAriaLabel: '科研团队' },
     { id: 'competition', enabled: true, navLabel: '竞赛获奖', navAriaLabel: '竞赛获奖' },
     { id: 'internship', enabled: true, navLabel: '实习经验', navAriaLabel: '实习经验' },
     { id: 'social', enabled: true, navLabel: '社会实践', navAriaLabel: '社会实践' }
