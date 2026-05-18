@@ -24,7 +24,7 @@ const CONFIG = {
    */
   slides: [
     { id: 'home', enabled: true, navLabel: '主页', navAriaLabel: '首页' },
-    { id: 'skills', enabled: true, navLabel: '技能', navAriaLabel: '技能与兴趣' },
+    { id: 'skills', enabled: true, navLabel: '研究方向', navAriaLabel: '研究方向' },
     { id: 'research', enabled: true, navLabel: '科研经历', navAriaLabel: '科研经历' },
     { id: 'competition', enabled: true, navLabel: '竞赛获奖', navAriaLabel: '竞赛获奖' },
     { id: 'internship', enabled: true, navLabel: '实习经验', navAriaLabel: '实习经验' },
