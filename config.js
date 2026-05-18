@@ -50,16 +50,11 @@ const CONFIG = {
     aboutTitle: 'About Me',
     /** 右侧「关于我」列表；有 href 时渲染为链接 */
     aboutRows: [
-      { label: '年龄', value: '永远的 18 岁' },
-      { label: '爱好', value: '探索世界' },
+      { label: '专业技术职务', value: '副教授' },
+      { label: '联系电话', value: '13426138230' },
       {
-        label: 'GitHub',
-        value: 'Tengxiaofei-git',
-        href: 'https://github.com/Tengxiaofei-git'
-      },
-      {
-        label: '联系方式',
-        value: 'tengfeimsc@163.com',
+        label: '电子邮箱',
+        value: 'Zhangwq@cau.edu.cn',
         href: 'mailto:tengfeimsc@163.com'
       }
     ]
