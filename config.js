@@ -4,7 +4,7 @@
  */
 const CONFIG = {
   meta: {
-    title: '生物成形制造与机器人应用研究组',
+    title: '中国农业大学生物成形制造与机器人应用研究组',
     description:
       '腾小飞 — 复旦大学腾飞书院工科学生个人名片：简介、技能与兴趣、科研、竞赛、实习与社会实践。',
     lang: 'zh-CN'
@@ -12,7 +12,7 @@ const CONFIG = {
 
   /** 顶栏与页脚文案 */
   site: {
-    headerName: '腾小飞',
+    headerName: '中国农业大学生物成形制造与机器人应用研究组',
     footerName: '腾小飞',
     footerOrg: '复旦大学腾飞书院',
     footerNote: '本页为 github.io 静态部署教程示例 · 左右滑动或方向键切换'
